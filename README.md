@@ -1,7 +1,5 @@
 ## Design and Analysis of Algorithms repositry of Group-2
 
-Uploading lab works of DAA course
-
 ### Members
 - Madhav(CS22B1005)
 - Sriram(CS22B1023)
