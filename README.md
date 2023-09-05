@@ -9,4 +9,4 @@ Uploading lab works of DAA course
 - Sugreev(CS22B1028)
 - Harshith(CS22B2015)
 
-![TeamLogo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzyeAqaAc3bJdpkySonJnr-VnO6TzeSjp-pQ&usqp=CAU)
+![TeamLogo](https://e0.pxfuel.com/wallpapers/50/98/desktop-wallpaper-matrix-binary-code-falling.jpg)
