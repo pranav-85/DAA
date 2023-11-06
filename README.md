@@ -7,4 +7,3 @@
 - Sugreev(CS22B1028)
 - Harshith(CS22B2015)
 
-![TeamLogo](https://e0.pxfuel.com/wallpapers/50/98/desktop-wallpaper-matrix-binary-code-falling.jpg)
